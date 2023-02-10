@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/edenvision/static/css/main.44f8b8b5.css",
-    "main.js": "/edenvision/static/js/main.566c5131.js",
+    "main.js": "/edenvision/static/js/main.69b4b67b.js",
     "static/js/787.607b4c14.chunk.js": "/edenvision/static/js/787.607b4c14.chunk.js",
     "index.html": "/edenvision/index.html",
     "main.44f8b8b5.css.map": "/edenvision/static/css/main.44f8b8b5.css.map",
-    "main.566c5131.js.map": "/edenvision/static/js/main.566c5131.js.map",
+    "main.69b4b67b.js.map": "/edenvision/static/js/main.69b4b67b.js.map",
     "787.607b4c14.chunk.js.map": "/edenvision/static/js/787.607b4c14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.566c5131.js"
+    "static/js/main.69b4b67b.js"
   ]
 }
